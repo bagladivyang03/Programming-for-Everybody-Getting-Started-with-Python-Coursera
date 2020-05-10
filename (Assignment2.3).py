@@ -6,3 +6,4 @@ rate = input("Enter rate :")
 rate = float(rate)
 pay = hrs*rate
 print("Pay:",pay)
+
